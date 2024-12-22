@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|c:\\users\\fd\\desktop\\tasarim\\tasarim\\tasarim\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762FDB37-DBC2-4FFF-B5B7-0BD69DBC84C5}|Tasarim\\Tasarim.csproj|solutionrelative:tasarim\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tasarim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tasarim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:53:36.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Tasarim\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "Tasarim\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:05:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Tasarim\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Entities\\User.cs",
+              "RelativeToolTip": "Tasarim\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:51:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tasarim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tasarim\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:43:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tasarim\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Tasarim\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T17:40:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Tasarim\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Tasarim\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:40:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Tasarim\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\FD\\Desktop\\Tasarim\\Tasarim\\Tasarim\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Tasarim\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:51:09.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
